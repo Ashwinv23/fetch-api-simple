@@ -18,6 +18,12 @@ code {
     monospace;
 }
 
+form {
+  position: fixed;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
 button {
   width: 33.33%;
   padding: 0.5rem;
@@ -33,5 +39,5 @@ ul {
 }
 
 li {
-  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
